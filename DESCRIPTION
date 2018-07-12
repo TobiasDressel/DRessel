@@ -1,7 +1,7 @@
 Package: DRessel
 Type: Package
 Title: FAIR Workshop
-Version: 0.1.0
+Version: 0.1.0.9000
 Date: 2018-02-12
 Authors@R: person("Tobias", "Dressel", 
     email = "tobias.dressel@ptb.de", 
