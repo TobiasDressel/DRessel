@@ -2,7 +2,11 @@ Package: DRessel
 Type: Package
 Title: FAIR Workshop
 Version: 0.1.0
-Author: person("Tobias", "Dressel", email = "tobias.dressel@ptb.de", role = c("aut", "cre"))
+Date: 2018-02-12
+Authors@R: person("Tobias", "Dressel", 
+    email = "tobias.dressel@ptb.de", 
+    role = c("aut", "cre"),
+    comment = c(ORCID = "0000-0000-0000-0000"))
 Description: Personal package
 License: MIT + file LICENSE
 Encoding: UTF-8
