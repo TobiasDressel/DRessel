@@ -1,7 +1,7 @@
 #' Centering datasets
-#' 
+#'
 #' Some more description.
-#' 
+#'
 #' And even more.
 #'
 #' @param data The numeric vector to be centered
@@ -9,7 +9,8 @@
 #'
 #' @return A new vector containing the original _dat_ centered around the _desired_ values
 #'
-#' @examples 
+#' @export
+#' @examples
 #'   center(c(1,2,3), 0) # should return  -1 0 1
 #'   center(c(1,2,3), 1) # should return   0 1 2
 center <- function(data, desired) {
