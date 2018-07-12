@@ -1,6 +1,6 @@
 # DRessel
 
-The goal of DRessel is to ...
+[![Travis build status](https://travis-ci.org/TobiasDressel/DRessel.svg?branch=master)](https://travis-ci.org/TobiasDressel/DRessel)
 
 ## Installation
 
